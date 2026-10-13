@@ -1,6 +1,6 @@
 {
- "version": "2026.10.13.0743",
- "url": "https://raw.githubusercontent.com/victorguima12/momo-fit/main/bundle-2026.10.13.0743.zip",
- "notes": "Cronômetro de descanso avisa com som e vibração em 1, 2 e 3 min (também com a tela apagada)",
- "date": "2026-10-13T07:43"
+ "version": "2026.10.13.0804",
+ "url": "https://raw.githubusercontent.com/victorguima12/momo-fit/main/bundle-2026.10.13.0804.zip",
+ "notes": "Bipe do descanso tocado como áudio comum (corrige o som mudo em alguns Galaxy) + ligar o 🔔 toca um bipe de teste",
+ "date": "2026-10-13T08:04"
 }
