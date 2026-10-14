@@ -1,6 +1,6 @@
 {
- "version": "2026.10.13.0804",
- "url": "https://raw.githubusercontent.com/victorguima12/momo-fit/main/bundle-2026.10.13.0804.zip",
- "notes": "Bipe do descanso tocado como áudio comum (corrige o som mudo em alguns Galaxy) + ligar o 🔔 toca um bipe de teste",
- "date": "2026-10-13T08:04"
+ "version": "2026.10.14.0848",
+ "url": "https://raw.githubusercontent.com/victorguima12/momo-fit/main/bundle-2026.10.14.0848.zip",
+ "notes": "Descanso apita a cada minuto (4, 5, 6 min...)",
+ "date": "2026-10-14T08:48"
 }
